@@ -1,0 +1,176 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "lineup": "Lineup",
+    "schedule": "Schedule",
+    "logistics": "Logistics",
+    "safety": "Safety",
+    "tickets": "Get Tickets",
+    "langSwitch": "தமிழ்"
+  },
+  "hero": {
+    "title": "Tamil Isai Sangamam",
+    "motto": "Oru Medai, Oru Osai",
+    "tagline": "South Asia's Greatest Music Festival",
+    "taglineFull": "Thenn Asia-vin Maaberum Isai Thiruvizha",
+    "date": "October 1, 2026",
+    "venue": "Chennai",
+    "countdownLabel": "Festival Begins In",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "intro": {
+    "title": "A Legacy of Sound, A Union of Souls",
+    "desc1": "Tamil Isai Sangamam is not just a festival; it is a historic pilgrimage of sound. For the first time in musical history, the titans of Tamil cinema, state icons, and legendary maestros unite on a single, monumental stage.",
+    "desc2": "From the divine acoustic symphonies of our legends to the high-octane cybernetic rave finales, experience the heartbeat of Tamil culture through centuries of musical evolution.",
+    "venueTitle": "Venue & Date",
+    "venueName": "Jawaharlal Nehru Stadium, Chennai",
+    "viewMap": "Get Directions on Google Maps",
+    "scaleTitle": "The Grandeur",
+    "statArtists": "50+ Artists",
+    "statArtistsSub": "Singers & Composers",
+    "statGuests": "34 Legends",
+    "statGuestsSub": "Chief & Special Guests",
+    "statHours": "10+ Hours",
+    "statHoursSub": "Non-stop Energy",
+    "statAttendees": "100k+ Souls",
+    "statAttendeesSub": "Uniting in Harmony"
+  },
+  "chiefGuests": {
+    "sectionTitle": "Chief Guests",
+    "sectionSubtitle": "Icons of Indian Cinema & Governance",
+    "vijay": {
+      "name": "Joseph Vijay",
+      "title": "Chief Minister of Tamil Nadu",
+      "desc": "The People's Leader. From commanding the silver screen to leading the state, Thalapathy Vijay graces the Sangamam as the Guest of Honour."
+    },
+    "stalin": {
+      "name": "M. K. Stalin",
+      "title": "Former Chief Minister",
+      "desc": "A veteran statesman and cultural patron who has championed Tamil arts and heritage across decades of public service."
+    },
+    "kamal": {
+      "name": "Kamal Haasan",
+      "title": "Ulaga Nayagan",
+      "desc": "The Universal Hero. Actor, director, screenwriter, and cultural ambassador — a living legend of Indian cinema."
+    },
+    "rajini": {
+      "name": "Rajinikanth",
+      "title": "Superstar",
+      "desc": "The one and only Superstar. His magnetic presence alone transforms any stage into a pilgrimage for millions."
+    },
+    "maniratnam": {
+      "name": "Mani Ratnam",
+      "title": "Visionary Director",
+      "desc": "The maestro of visual poetry. Mani Ratnam's cinema redefined how music and visuals intertwine in storytelling."
+    },
+    "shankar": {
+      "name": "Shankar",
+      "title": "Blockbuster Director",
+      "desc": "India's spectacle filmmaker. Known for pushing the boundaries of scale, technology, and musical grandeur."
+    }
+  },
+  "specialGuests": {
+    "sectionTitle": "Special Guests",
+    "sectionSubtitle": "Legends Across Industries"
+  },
+  "lineup": {
+    "sectionTitle": "The Lineup",
+    "sectionSubtitle": "Masters of Sound",
+    "filterAll": "All",
+    "filterHighDecibels": "High Decibels",
+    "filterMelody": "Melody",
+    "filterNostalgic": "Nostalgic",
+    "filterStreetBeats": "Street Beats",
+    "filterSingers": "Singers",
+    "hoverHint": "Hover to preview"
+  },
+  "schedule": {
+    "sectionTitle": "The Schedule",
+    "sectionSubtitle": "One Day. Four Acts. Infinite Memories.",
+    "morning": {
+      "time": "10:00 AM",
+      "label": "Morning Session",
+      "title": "The Grand Overture",
+      "desc": "Ilaiyaraaja & A.R. Rahman orchestral symphonies opening the gates of musical nirvana.",
+      "mood": "Golden Morning"
+    },
+    "afternoon": {
+      "time": "1:30 PM",
+      "label": "Afternoon Session",
+      "title": "Nostalgic Waves",
+      "desc": "Harris Jayaraj, DSP & G.V. Prakash weave melodies that transport you through decades of Tamil cinema.",
+      "mood": "Cool Blue"
+    },
+    "evening": {
+      "time": "5:00 PM",
+      "label": "Evening Session",
+      "title": "Sunset Inferno",
+      "desc": "Vijay Antony, Santhosh Narayanan & the street beats crew set the arena ablaze with raw energy.",
+      "mood": "Crimson Sunset"
+    },
+    "night": {
+      "time": "8:00 PM — 11:00 PM",
+      "label": "Night Session",
+      "title": "The Grand Gathering",
+      "desc": "Anirudh Ravichander commands the stage for the ultimate high-frequency cybernetic rave finale. Where all artist and guest came together in Single Stage!",
+      "mood": "Neon Rave"
+    }
+  },
+  "stadium": {
+    "sectionTitle": "Venue Guide",
+    "sectionSubtitle": "Navigate the Arena",
+    "mainStage": "Main Stage & Production",
+    "generalAdmission": "General Admission",
+    "vvip": "VVIP / VIP Enclosure",
+    "seniorZone": "Senior Citizen Safe Zone",
+    "seniorNote": "Fast-track priority entry at Gate 3 with acoustically dampened seating.",
+    "medical": "Medical Aid Station",
+    "emergency": "Emergency Assembly Point",
+    "ambulance": "Ambulance Bay (South Block)"
+  },
+  "safety": {
+    "sectionTitle": "House Rules & Safety",
+    "sectionSubtitle": "Your Safety is Our Priority",
+    "ageRestriction": "Strictly 18+ Entry — Valid physical government-issued photo ID required at gates.",
+    "decibelWarning": "Audio levels exceed 100dB+ in front zones. Ear protection strongly recommended.",
+    "medicalWarning": "Strictly prohibited for pregnant women and individuals with cardiac conditions or pacemakers.",
+    "noItems": "Prohibited Items",
+    "prohibited": [
+      "Glass bottles",
+      "Weapons of any kind",
+      "Laser pointers",
+      "Professional cameras",
+      "Drones",
+      "Outside food & beverages",
+      "Illegal substances"
+    ],
+    "consent": "By purchasing a ticket, you acknowledge all risks associated with high-decibel live music events.",
+    "ticketsTitle": "Get Your Tickets",
+    "bookmyshow": "Book on BookMyShow",
+    "district": "Book on District"
+  },
+  "aboutPage": {
+    "title": "About Tamil Isai Sangamam",
+    "subtitle": "Bridging Generations Through Music",
+    "introTitle": "A Grand Union of Music & Heritage",
+    "para1": "Tamil Isai Sangamam is South Asia's most spectacular, high-prestige music festival, celebrating the timeless spirit and monumental legacy of Tamil musical heritage. Held at the historic Jawaharlal Nehru Stadium in Chennai, this event bridges the gap between classical, traditional folk, nostalgic cinematic melodies, and modern high-energy cybernetic synth beats.",
+    "para2": "On this single historic stage, legends of cinema, statesmanship, and musical geniuses unite. It is not just a concert, but a cultural phenomenon that hosts more than 50 of the region's finest performers, 34 prestigious chief and special guests, and over 100,000 passionate music lovers.",
+    "para3": "Designed with cutting-edge visual and sound production, the festival offers an immersive experience like no other. From sunrise classical symphonies to nighttime neon-lit electronic finales, Tamil Isai Sangamam is a monument to the sound that defines us.",
+    "navigateTitle": "Explore the Festival",
+    "navigateSubtitle": "Quick links to navigate through the event spaces",
+    "btnChiefGuests": "Chief Guests",
+    "btnSpecialGuests": "Special Guests",
+    "btnTerms": "Terms & Conditions",
+    "btnLineup": "Artist Lineup",
+    "btnSchedule": "Event Schedule"
+  },
+  "footer": {
+    "tagline": "One Stage. One Sound.",
+    "copyright": "© 2026 Tamil Isai Sangamam. All rights reserved.",
+    "madeWith": "Crafted with passion for Tamil music heritage."
+  }
+}

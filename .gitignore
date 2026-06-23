@@ -1,0 +1,20 @@
+# Next.js build output and cache
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# Local env files
+.env*.local
+
+# Editor settings and temp files
+.DS_Store
+*.log
+
+# Editor configurations
+.vscode/
+
+# Additional environment configurations
+.env
+.env.production
