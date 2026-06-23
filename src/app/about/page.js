@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { useLanguage } from '@/context/LanguageContext';
 import { Users, UserCheck, ShieldAlert, Calendar, Music } from 'lucide-react';
+import AboutSection from '@/components/AboutSection';
 
 export default function AboutPage() {
   const { t, isTamil } = useLanguage();
@@ -93,21 +94,7 @@ export default function AboutPage() {
         </div>
 
         {/* Detailed Description Panel */}
-        <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.9 }}
-          className="glass-panel border-gold/10 p-6 sm:p-10 rounded-3xl shadow-2xl mb-12 space-y-6"
-        >
-          <h2 className={`text-xl sm:text-2xl font-bold text-gold-shimmer ${isTamil ? 'font-arima' : 'font-catamaran'}`}>
-            {t('aboutPage.introTitle')}
-          </h2>
-          <div className={`space-y-4 text-sm sm:text-base text-gray-300 leading-relaxed ${isTamil ? 'font-noto-tamil' : 'font-inter'}`}>
-            <p>{t('aboutPage.para1')}</p>
-            <p>{t('aboutPage.para2')}</p>
-            <p>{t('aboutPage.para3')}</p>
-          </div>
-        </motion.div>
+        <AboutSection />
 
         {/* Navigation Grid Section */}
         <motion.div
